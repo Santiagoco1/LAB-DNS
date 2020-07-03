@@ -1,1 +1,1 @@
-ifconfig eth0 100.1.4.2/22 up
+ifconfig eth0 101.4.2/22 up
