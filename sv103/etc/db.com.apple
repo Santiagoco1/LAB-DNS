@@ -1,0 +1,12 @@
+$TTL    60000
+@               IN      SOA     ns1.apple.com.    root.sv103.apple.com. (
+                        2006031201 ; serial
+                        28 ; refresh
+                        14 ; retry
+                        3600000 ; expire
+                        0 ; negative cache ttl
+                        )
+
+@               IN      NS      ns1.apple.com.
+sv103           IN      A       101.2.2.3
+ns1             IN      CNAME   101.2.2.3

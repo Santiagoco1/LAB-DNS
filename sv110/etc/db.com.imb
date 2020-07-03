@@ -1,0 +1,12 @@
+$TTL    60000
+@               IN      SOA     ns3.imb.com.    root.sv110.imb.com. (
+                        2006031201 ; serial
+                        28 ; refresh
+                        14 ; retry
+                        3600000 ; expire
+                        0 ; negative cache ttl
+                        )
+
+@               IN      NS      ns3.imb.com.
+sv110           IN      A       101.1.4.3
+ns3             IN      CNAME   101.1.4.3
