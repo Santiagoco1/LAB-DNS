@@ -12,8 +12,3 @@ sv122           IN      A       31.3.2.3
 
 apple           IN      NS      sv103.apple.com.
 sv103           IN      A       101.2.2.3
-ns1             IN      CNAME   101.2.2.3
-
-linux           IN      NS      sv103.linux.org.
-sv103           IN      A       101.2.2.3
-ns1             IN      CNAME   101.2.2.3
