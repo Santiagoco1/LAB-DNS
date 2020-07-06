@@ -12,7 +12,7 @@ $TTL    1
 22.0.0.11.in-addr.arpa.      PTR        .
 3.2.3.31.in-addr.arpa.       PTR        sv122.com.
 3.2.3.31.in-addr.arpa.       PTR        sv122.org.
-3.1.2.101.in-addr.arpa.      PTR        ns1.apple.com.
-3.1.2.101.in-addr.arpa.      PTR        ns1.linux.org.
-3.4.1.101.in-addr.arpa.      PTR        ns3.imb.com.
-3.64.1.201.in-addr.arpa.     PTR        ns1.support.ibm.com.
+3.2.2.101.in-addr.arpa.      PTR        sv103.apple.com.
+3.2.2.101.in-addr.arpa.      PTR        sv103.linux.org.
+3.4.1.101.in-addr.arpa.      PTR        sv110.imb.com.
+3.64.1.201.in-addr.arpa.     PTR        sv113.support.ibm.com.
