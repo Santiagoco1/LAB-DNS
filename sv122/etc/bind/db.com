@@ -8,4 +8,5 @@ $TTL    60000
                         )
 
 @               IN      NS      ns1.com.
+ns1.com.        IN      A      31.3.2.3
 sv122           IN      A       31.3.2.3
