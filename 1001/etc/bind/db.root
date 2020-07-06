@@ -11,7 +11,7 @@ $TTL   60000
 ROOT-SERVER.	    IN	    A   	11.0.0.22
 
 com.                IN      NS      ns1.com.
-ns1.com.         IN      A       31.3.2.3
+ns1.com.            IN      A       31.3.2.3
 
 org.                IN      NS      ns1.org.
-ns1.org.         IN      A       31.3.2.3
+ns1.org.            IN      A       31.3.2.3
