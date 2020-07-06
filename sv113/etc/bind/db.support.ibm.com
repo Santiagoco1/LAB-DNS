@@ -1,5 +1,5 @@
 $TTL    60000
-@               IN      SOA     ns1.linux.org.    root.linux.org. (
+@               IN      SOA     ns1.support.ibm.com.    root.support.ibm.com. (
                         2006031201 ; serial
                         28 ; refresh
                         14 ; retry
