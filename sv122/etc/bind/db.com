@@ -1,5 +1,5 @@
 $TTL    60000
-@               IN      SOA     ns1.com.    root.com. (
+@               IN      SOA     sv122.com.    root.com. (
                         2006031201 ; serial
                         28 ; refresh
                         14 ; retry
@@ -7,6 +7,5 @@ $TTL    60000
                         0 ; negative cache ttl
                         )
 
-@               IN      NS      ns1.com.
-ns1.com.        IN      A      31.3.2.3
+@               IN      NS      sv122.com.
 sv122           IN      A       31.3.2.3
