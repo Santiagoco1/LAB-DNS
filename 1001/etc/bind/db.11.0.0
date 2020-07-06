@@ -1,0 +1,18 @@
+; reverse lookup database
+$TTL    1
+@               IN      SOA     22.0.0.11.in-addr.arpa.    nobody.nowhere. (
+                        2006031201 ; serial
+                        28 ; refresh
+                        14 ; retry
+                        3600000 ; expire
+                        0 ; negative cache ttl
+                        )
+@                            IN      NS      11.0.0.22.in-addr.arpa.
+22.0.0.11.in-addr.arpa.      IN      A       11.0.0.22
+22.0.0.11.in-addr.arpa.      PTR        .
+3.2.3.31.in-addr.arpa.       PTR        dnscom.com.
+3.2.3.31.in-addr.arpa.       PTR        dnsorg.org.
+3.1.2.101.in-addr.arpa.      PTR        ns1.apple.com.
+3.1.2.101.in-addr.arpa.      PTR        ns1.linux.org.
+3.4.1.101.in-addr.arpa.      PTR        ns3.imb.com.
+3.64.1.201.in-addr.arpa.     PTR        ns1.support.ibm.com.
