@@ -15,15 +15,3 @@ dnsorg.com.         IN      A       31.3.2.3
 
 org.                IN      NS      dnsorg.org.
 dnsnet.org.         IN      A       31.3.2.3
-
-apple.com.          IN      NS      ns1.apple.com.
-ns1.apple.com.      IN      A       101.2.1.3
-
-linux.org.          IN      NS      ns1.linux.org.
-ns1.linux.org.      IN      A       101.2.1.3
-
-ibm.com.            IN      NS      ns3.imb.com.
-ns3.imb.com.        IN      A       101.1.4.3
-
-support.ibm.com.     IN     NS      ns1.support.ibm.com.
-ns1.support.ibm.com. IN     A       201.1.64.3
