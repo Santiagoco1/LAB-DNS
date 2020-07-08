@@ -15,6 +15,3 @@ sv103.apple     IN      A       101.2.2.3
 
 ibm             IN      NS      sv110.ibm.com.
 sv110.ibm       IN      A       101.1.4.3
-
-support.ibm     IN      NS      sv113.support.ibm.com.
-sv113.support.ibm  IN   A      201.1.64.3
