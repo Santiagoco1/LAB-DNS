@@ -9,4 +9,4 @@ $TTL    60000
 
 @               IN      NS      sv103.linux.org.
 sv103           IN      A       101.2.2.3
-ns1             IN      CNAME   101.2.2.3
+www             IN      CNAME   sv103
