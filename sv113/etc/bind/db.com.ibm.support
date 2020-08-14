@@ -9,4 +9,4 @@ $TTL    60000
 
 @               IN      NS      sv113.support.ibm.com.
 sv113           IN      A       201.1.64.3
-ns1             IN      CNAME   201.1.64.3
+www             IN      CNAME   sv113
