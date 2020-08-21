@@ -1,5 +1,5 @@
 $TTL    60000
-@               IN      SOA     sv103.linux.org.    root.linux.org. (
+@               IN      SOA     sv117.linux.org.    root.linux.org. (
                         2006031201 ; serial
                         28 ; refresh
                         14 ; retry
@@ -7,6 +7,6 @@ $TTL    60000
                         0 ; negative cache ttl
                         )
 
-@               IN      NS      sv108.linux.org.
-sv108           IN      A       101.1.4.5
-www             IN      CNAME   sv108
+@               IN      NS      sv117.linux.org.
+sv117           IN      A       201.1.128.4
+www             IN      CNAME   sv117

@@ -1,5 +1,5 @@
 $TTL    60000
-@               IN      SOA     sv103.apple.com.    root.sv103.apple.com. (
+@               IN      SOA     sv115.apple.com.    root.sv103.apple.com. (
                         2006031201 ; serial
                         28 ; refresh
                         14 ; retry
@@ -7,6 +7,6 @@ $TTL    60000
                         0 ; negative cache ttl
                         )
 
-@               IN      NS      sv106.apple.com.
-sv106           IN      A       101.2.2.6
-www             IN      CNAME   sv106
+@               IN      NS      sv115.apple.com.
+sv115           IN      A       201.1.128.3
+www             IN      CNAME   sv115
