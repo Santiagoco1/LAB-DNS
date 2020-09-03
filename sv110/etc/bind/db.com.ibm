@@ -7,6 +7,9 @@ $TTL    60000
                         0 ; negative cache ttl
                         )
 
+@               IN      NS      sv110.ibm.com
+sv110           IN      A       101.1.4.3
+
 support        IN      NS      sv113.support.ibm.com.
 sv113.support  IN      A       201.1.64.3
 
