@@ -11,6 +11,7 @@ $TTL    60000
 sv110           IN      A       101.1.4.3
 
 sv106          IN      A       101.2.2.6
+www            IN      CNAME   sv106
 
 support        IN      NS      sv113.support.ibm.com.
 sv113.support  IN      A       201.1.64.3

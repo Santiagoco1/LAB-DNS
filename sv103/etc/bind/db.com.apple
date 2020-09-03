@@ -9,3 +9,6 @@ $TTL    60000
 
 @               IN      NS      sv103.apple.com.
 sv103           IN      A       101.2.2.3
+
+1205            IN      A       201.1.128.3
+www             IN      CNAME   1025
