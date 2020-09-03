@@ -7,9 +7,5 @@ $TTL    60000
                         0 ; negative cache ttl
                         )
 
-@               IN      NS      sv103.apple.com
+@               IN      NS      sv103.apple.com.
 sv103           IN      A       101.2.2.3
-
-# @               IN      NS      sv115.apple.com.
-# sv115           IN      NS       201.1.128.3
-# www             IN      CNAME   sv115
