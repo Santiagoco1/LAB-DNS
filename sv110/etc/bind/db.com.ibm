@@ -7,9 +7,9 @@ $TTL    60000
                         0 ; negative cache ttl
                         )
 
+support        IN      NS      sv113.support.ibm.com.
+sv113.support  IN      A       201.1.64.3
+
 # @               IN      NS      sv106.ibm.com.
 # sv106           IN      A       101.2.2.6
 # www             IN      CNAME   sv106
-
-support        IN      NS      sv113.support.ibm.com.
-sv113.support  IN      A       201.1.64.3
