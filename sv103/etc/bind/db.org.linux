@@ -7,6 +7,9 @@ $TTL    60000
                         0 ; negative cache ttl
                         )
 
-@               IN      NS      sv117.linux.org.
-sv117           IN      A       201.1.128.4
-www             IN      CNAME   sv117
+@               IN      NS      sv103.linux.org
+sv103           IN      A       101.2.2.3
+
+# @               IN      NS      sv117.linux.org.
+# sv117           IN      A       201.1.128.4
+# www             IN      CNAME   sv117
