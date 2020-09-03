@@ -1,5 +1,5 @@
 $TTL    60000
-@               IN      SOA     sv106.ibm.com.    root.sv110.ibm.com. (
+@               IN      SOA     sv110.ibm.com.    root.sv110.ibm.com. (
                         2006031201 ; serial
                         28 ; refresh
                         14 ; retry
@@ -7,9 +7,9 @@ $TTL    60000
                         0 ; negative cache ttl
                         )
 
-@               IN      NS      sv106.ibm.com.
-sv106           IN      A       101.2.2.6
-www             IN      CNAME   sv106
+# @               IN      NS      sv106.ibm.com.
+# sv106           IN      A       101.2.2.6
+# www             IN      CNAME   sv106
 
 support        IN      NS      sv113.support.ibm.com.
 sv113.support  IN      A       201.1.64.3

@@ -7,7 +7,6 @@ $TTL    60000
                         0 ; negative cache ttl
                         )
 
-
 @               IN      NS      sv103.apple.com
 sv103           IN      A       101.2.2.3
 
