@@ -11,4 +11,4 @@ $TTL    60000
 sv103           IN      A       101.2.2.3
 
 1206            IN      A       201.1.128.4
-www             IN      CNAME   1026
+www             IN      CNAME   1206
