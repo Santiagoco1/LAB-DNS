@@ -2,3 +2,6 @@ ifconfig eth0 101.1.4.5/22 up
 route add default gw 101.1.4.1 eth0
 
 /etc/init.d/nginx start
+
+mkdir -p /etc/nginx/sites-available
+mkdir -p /etc/nginx/sites-enabled
