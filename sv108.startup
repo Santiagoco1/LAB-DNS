@@ -8,3 +8,12 @@ mkdir -p /etc/nginx/sites-available
 mkdir -p /etc/nginx/sites-enabled
 
 /etc/init.d/nginx start
+# COMO MODIFICAR LA IMAGEN DE KATHARA PARA INSTALAR NGINX:
+# docker pull kathara/quagga
+# docker run -tid --name nginx kathara/quagga
+# docker exec -ti nginx bash
+# apt update
+# apt install nginx
+# exit
+# docker commit nginx kathara/quagga
+# docker rm -f nginx
