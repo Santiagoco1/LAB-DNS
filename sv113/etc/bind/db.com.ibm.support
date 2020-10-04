@@ -7,7 +7,7 @@ $TTL    60000
                         0 ; negative cache ttl
                         )
 
-@               IN      NS      sv113.support.ibm.com.
+@               IN      NS      sv113.support.ibm.com.		; @ in name server sv113.support.ibm.com. y sv113 in adress 201.1.64.3 
 sv113           IN      A       201.1.64.3
 
 sv108           IN      A       101.1.4.5
