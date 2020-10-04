@@ -1,5 +1,5 @@
 $TTL   60000
-@               IN      SOA     ROOT-SERVER.    root.ROOT-SERVER. (
+@                   IN      SOA     ROOT-SERVER.    root.ROOT-SERVER. ( 
                         2006031201 ; serial
                         28800 ; refresh
                         14400 ; retry
@@ -8,10 +8,10 @@ $TTL   60000
                         )
 
 @                   IN      NS      ROOT-SERVER.
-ROOT-SERVER.	    IN	    A   	11.0.0.22
+ROOT-SERVER.	      IN	    A   	11.0.0.22
 
 com.                IN      NS      sv122.com.
-sv122.com.            IN      A       31.3.2.3
+sv122.com.          IN      A       31.3.2.3
 
 org.                IN      NS      sv122.org.
-sv122.org.            IN      A       31.3.2.3
+sv122.org.          IN      A       31.3.2.3
